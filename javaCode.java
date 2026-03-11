@@ -42,7 +42,7 @@ public class ComputeStatistics {
 
     public static void main(String[] args) {
         ComputeStatistics cs = new ComputeStatistics();
-        cs.computeStats("random_nums.txt");
+        cs.computeStats("random_num.txt");
     }
 }
 
